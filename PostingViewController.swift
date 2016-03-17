@@ -37,7 +37,7 @@ class SignUpViewController: UIViewController {
     lazy var json : JSON = JSON.null
     
     // MUST HAVE HTTPS
-    let endpoint = "https://troop.tech/api/users"
+    let endpoint = "https://api.com/api/users"
 
 
     
